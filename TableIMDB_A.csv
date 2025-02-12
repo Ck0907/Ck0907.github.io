@@ -1,0 +1,1001 @@
+id,title,rating,date,MPA_rating
+A0,"1. The Shawshank Redemption",9.3,"1994",R
+A1,"2. The Dark Knight",9.0,"2008",PG-13
+A2,"3. Inception",8.8,"2010",PG-13
+A3,"4. Fight Club",8.8,"1999",R
+A4,"5. Forrest Gump",8.8,"1994",PG-13
+A5,"6. Pulp Fiction",8.9,"1994",R
+A6,"7. Interstellar",8.7,"2014",PG-13
+A7,"8. The Matrix",8.7,"1999",R
+A8,"9. The Godfather",9.2,"1972",R
+A9,"10. The Lord of the Rings: The Fellowship of the Ring",8.9,"2001",PG-13
+A10,"11. The Lord of the Rings: The Return of the King",9.0,"2003",PG-13
+A11,"12. The Dark Knight Rises",8.4,"2012",PG-13
+A12,"13. Se7en",8.6,"1995",R
+A13,"14. The Lord of the Rings: The Two Towers",8.8,"2002",PG-13
+A14,"15. Django Unchained",8.5,"2012",R
+A15,"16. Gladiator",8.5,"2000",R
+A16,"17. The Wolf of Wall Street",8.2,"2013",R
+A17,"18. Inglourious Basterds",8.4,"2009",R
+A18,"19. Batman Begins",8.2,"2005",PG-13
+A19,"20. The Silence of the Lambs",8.6,"1991",R
+A20,"21. Joker",8.3,"2019",R
+A21,"22. Saving Private Ryan",8.6,"1998",R
+A22,"23. Shutter Island",8.2,"2010",R
+A23,"24. Schindler's List",9.0,"1993",R
+A24,"25. The Prestige",8.5,"2006",PG-13
+A25,"26. The Avengers",8.0,"2012",PG-13
+A26,"27. Star Wars: Episode IV - A New Hope",8.6,"1977",PG
+A27,"28. The Departed",8.5,"2006",R
+A28,"29. The Green Mile",8.6,"1999",R
+A29,"30. Star Wars: Episode V - The Empire Strikes Back",8.7,"1980",PG
+A30,"31. Avatar",7.9,"2009",PG-13
+A31,"32. The Godfather Part II",9.0,"1974",R
+A32,"33. Memento",8.4,"2000",R
+A33,"34. Back to the Future",8.5,"1985",PG
+A34,"35. Avengers: Endgame",8.4,"2019",PG-13
+A35,"36. Titanic",7.9,"1997",PG-13
+A36,"37. Goodfellas",8.7,"1990",R
+A37,"38. Guardians of the Galaxy",8.0,"2014",PG-13
+A38,"39. Léon: The Professional",8.5,"1994",R
+A39,"40. Avengers: Infinity War",8.4,"2018",PG-13
+A40,"41. The Truman Show",8.2,"1998",PG
+A41,"42. Pirates of the Caribbean: The Curse of the Black Pearl",8.1,"2003",PG-13
+A42,"43. WALL·E",8.4,"2008",G
+A43,"44. American Beauty",8.3,"1999",R
+A44,"45. Kill Bill: Vol. 1",8.2,"2003",R
+A45,"46. American History X",8.5,"1998",R
+A46,"47. Terminator 2: Judgment Day",8.6,"1991",R
+A47,"48. V for Vendetta",8.1,"2005",R
+A48,"49. Deadpool",8.0,"2016",R
+A49,"50. The Lion King",8.5,"1994",G
+A50,"51. The Usual Suspects",8.5,"1995",R
+A51,"52. Up",8.3,"2009",PG
+A52,"53. Iron Man",7.9,"2008",PG-13
+A53,"54. Star Wars: Episode VI - Return of the Jedi",8.3,"1983",PG
+A54,"55. The Shining",8.4,"1980",R
+A55,"56. Mad Max: Fury Road",8.1,"2015",R
+A56,"57. Finding Nemo",8.2,"2003",G
+A57,"58. Catch Me If You Can",8.1,"2002",PG-13
+A58,"59. Eternal Sunshine of the Spotless Mind",8.3,"2004",R
+A59,"60. Reservoir Dogs",8.3,"1992",R
+A60,"61. Braveheart",8.3,"1995",R
+A61,"62. Good Will Hunting",8.3,"1997",R
+A62,"63. Toy Story",8.3,"1995",G
+A63,"64. Gone Girl",8.1,"2014",R
+A64,"65. No Country for Old Men",8.2,"2007",R
+A65,"66. One Flew Over the Cuckoo's Nest",8.7,"1975",R
+A66,"67. Jurassic Park",8.2,"1993",PG-13
+A67,"68. The Sixth Sense",8.2,"1999",PG-13
+A68,"69. Raiders of the Lost Ark",8.4,"1981",PG
+A69,"70. Whiplash",8.5,"2014",R
+A70,"71. Parasite",8.5,"2019",R
+A71,"72. The Hunger Games",7.2,"2012",PG-13
+A72,"73. Monsters, Inc.",8.1,"2001",G
+A73,"74. A Beautiful Mind",8.2,"2001",PG-13
+A74,"75. Alien",8.5,"1979",R
+A75,"76. Star Wars: Episode VII - The Force Awakens",7.8,"2015",PG-13
+A76,"77. Harry Potter and the Deathly Hallows: Part 2",8.1,"2011",PG-13
+A77,"78. Die Hard",8.2,"1988",R
+A78,"79. The Intouchables",8.5,"2011",R
+A79,"80. Taxi Driver",8.2,"1976",R
+A80,"81. The Martian",8.0,"2015",PG-13
+A81,"82. The Terminator",8.1,"1984",R
+A82,"83. The Pianist",8.5,"2002",R
+A83,"84. Scarface",8.3,"1983",R
+A84,"85. Avengers: Age of Ultron",7.3,"2015",PG-13
+A85,"86. Dune: Part One",8.0,"2021",PG-13
+A86,"87. Snatch",8.2,"2000",R
+A87,"88. Spider-Man: No Way Home",8.2,"2021",PG-13
+A88,"89. Requiem for a Dream",8.3,"2000",NC-17
+A89,"90. Thor",7.0,"2011",PG-13
+A90,"91. Captain America: The Winter Soldier",7.7,"2014",PG-13
+A91,"92. Iron Man 3",7.1,"2013",PG-13
+A92,"93. Captain America: The First Avenger",6.9,"2011",PG-13
+A93,"94. Toy Story 3",8.3,"2010",G
+A94,"95. The Grand Budapest Hotel",8.1,"2014",R
+A95,"96. Spider-Man",7.4,"2002",PG-13
+A96,"97. 12 Angry Men",9.0,"1957",Approved
+A97,"98. A Clockwork Orange",8.2,"1971",R
+A98,"99. The Revenant",8.0,"2015",R
+A99,"100. The Hobbit: An Unexpected Journey",7.8,"2012",PG-13
+A100,"101. Spirited Away",8.6,"2001",PG
+A101,"102. Harry Potter and the Sorcerer's Stone",7.7,"2001",PG
+A102,"103. Iron Man 2",6.9,"2010",PG-13
+A103,"104. Slumdog Millionaire",8.0,"2008",R
+A104,"105. Once Upon a Time... in Hollywood",7.6,"2019",R
+A105,"106. 300",7.6,"2006",R
+A106,"107. Star Wars: Episode I - The Phantom Menace",6.5,"1999",PG
+A107,"108. The Big Lebowski",8.1,"1998",R
+A108,"109. Logan",8.1,"2017",R
+A109,"110. Captain America: Civil War",7.8,"2016",PG-13
+A110,"111. Gravity",7.7,"2013",PG-13
+A111,"112. The Hangover",7.7,"2009",R
+A112,"113. Donnie Darko",8.0,"2001",R
+A113,"114. Star Wars: Episode III - Revenge of the Sith",7.6,"2005",PG-13
+A114,"115. Ratatouille",8.1,"2007",G
+A115,"116. Black Panther",7.3,"2018",PG-13
+A116,"117. The Batman",7.8,"2022",PG-13
+A117,"118. Prisoners",8.2,"2013",R
+A118,"119. Inside Out",8.1,"2015",PG
+A119,"120. Black Swan",8.0,"2010",R
+A120,"121. Oppenheimer",8.3,"2023",R
+A121,"122. Blade Runner",8.1,"1982",R
+A122,"123. The Imitation Game",8.0,"2014",PG-13
+A123,"124. Thor: Ragnarok",7.9,"2017",PG-13
+A124,"125. The Incredibles",8.0,"2004",PG
+A125,"126. The Good, the Bad and the Ugly",8.8,"1966",R
+A126,"127. I Am Legend",7.2,"2007",PG-13
+A127,"128. Doctor Strange",7.5,"2016",PG-13
+A128,"129. Gran Torino",8.1,"2008",R
+A129,"130. Indiana Jones and the Last Crusade",8.2,"1989",PG-13
+A130,"131. How to Train Your Dragon",8.1,"2010",PG
+A131,"132. Kill Bill: Vol. 2",8.0,"2004",R
+A132,"133. Man of Steel",7.1,"2013",PG-13
+A133,"134. City of God",8.6,"2002",R
+A134,"135. Full Metal Jacket",8.2,"1987",R
+A135,"136. Amélie",8.3,"2001",R
+A136,"137. Knives Out",7.9,"2019",PG-13
+A137,"138. Arrival",7.9,"2016",PG-13
+A138,"139. Sin City",8.0,"2005",R
+A139,"140. Aliens",8.4,"1986",R
+A140,"141. Pirates of the Caribbean: Dead Man's Chest",7.4,"2006",PG-13
+A141,"142. Guardians of the Galaxy Vol. 2",7.6,"2017",PG-13
+A142,"143. The Social Network",7.8,"2010",PG-13
+A143,"144. Star Wars: Episode II - Attack of the Clones",6.6,"2002",PG
+A144,"145. John Wick",7.4,"2014",R
+A145,"146. Life Is Beautiful",8.6,"1997",PG-13
+A146,"147. Batman v Superman: Dawn of Justice",6.5,"2016",R
+A147,"148. Dunkirk",7.8,"2017",PG-13
+A148,"149. X-Men: Days of Future Past",7.9,"2014",PG-13
+A149,"150. Edge of Tomorrow",7.9,"2014",PG-13
+A150,"151. American Psycho",7.6,"2000",R
+A151,"152. Shrek",7.9,"2001",PG
+A152,"153. 12 Years a Slave",8.1,"2013",R
+A153,"154. Top Gun: Maverick",8.2,"2022",PG-13
+A154,"155. Silver Linings Playbook",7.7,"2012",R
+A155,"156. Spider-Man: Homecoming",7.4,"2017",PG-13
+A156,"157. Fargo",8.1,"1996",R
+A157,"158. Get Out",7.8,"2017",R
+A158,"159. Skyfall",7.8,"2012",PG-13
+A159,"160. Heat",8.3,"1995",R
+A160,"161. World War Z",7.0,"2013",PG-13
+A161,"162. 2001: A Space Odyssey",8.3,"1968",G
+A162,"163. Thor: The Dark World",6.7,"2013",PG-13
+A163,"164. Psycho",8.5,"1960",R
+A164,"165. Kingsman: The Secret Service",7.7,"2014",R
+A165,"166. Trainspotting",8.1,"1996",R
+A166,"167. Ant-Man",7.2,"2015",PG-13
+A167,"168. X-Men: First Class",7.7,"2011",PG-13
+A168,"169. The Hunger Games: Catching Fire",7.5,"2013",PG-13
+A169,"170. Million Dollar Baby",8.1,"2004",PG-13
+A170,"171. Suicide Squad",5.9,"2016",PG-13
+A171,"172. Spider-Man 2",7.5,"2004",PG-13
+A172,"173. Apocalypse Now",8.4,"1979",R
+A173,"174. District 9",7.9,"2009",R
+A174,"175. Now You See Me",7.2,"2013",PG-13
+A175,"176. Drive",7.8,"2011",R
+A176,"177. The Hobbit: The Desolation of Smaug",7.8,"2013",PG-13
+A177,"178. The Amazing Spider-Man",6.9,"2012",PG-13
+A178,"179. Harry Potter and the Chamber of Secrets",7.4,"2002",PG
+A179,"180. Harry Potter and the Prisoner of Azkaban",7.9,"2004",PG
+A180,"181. Pan's Labyrinth",8.2,"2006",R
+A181,"182. The King's Speech",8.0,"2010",R
+A182,"183. Spider-Man: Into the Spider-Verse",8.4,"2018",PG
+A183,"184. The Curious Case of Benjamin Button",7.8,"2008",PG-13
+A184,"185. 1917",8.2,"2019",R
+A185,"186. Wonder Woman",7.3,"2017",PG-13
+A186,"187. Pirates of the Caribbean: At World's End",7.1,"2007",PG-13
+A187,"188. Casino Royale",8.0,"2006",PG-13
+A188,"189. Harry Potter and the Goblet of Fire",7.7,"2005",PG-13
+A189,"190. Groundhog Day",8.0,"1993",PG
+A190,"191. La La Land",8.0,"2016",PG-13
+A191,"192. Rogue One: A Star Wars Story",7.8,"2016",PG-13
+A192,"193. Blade Runner 2049",8.0,"2017",R
+A193,"194. Deadpool 2",7.6,"2018",R
+A194,"195. Jurassic World",6.9,"2015",PG-13
+A195,"196. Her",8.0,"2013",R
+A196,"197. Transformers",7.1,"2007",PG-13
+A197,"198. Home Alone",7.7,"1990",PG
+A198,"199. Star Wars: Episode VIII - The Last Jedi",6.9,"2017",PG-13
+A199,"200. Jaws",8.1,"1975",PG
+A200,"201. Sherlock Holmes",7.6,"2009",PG-13
+A201,"202. The Hateful Eight",7.8,"2015",R
+A202,"203. Frozen",7.4,"2013",PG
+A203,"204. Life of Pi",7.9,"2012",PG
+A204,"205. Birdman or (The Unexpected Virtue of Ignorance)",7.7,"2014",R
+A205,"206. Ted",6.9,"2012",R
+A206,"207. Into the Wild",8.1,"2007",R
+A207,"208. Prometheus",7.0,"2012",R
+A208,"209. The Bourne Ultimatum",8.0,"2007",PG-13
+A209,"210. X-Men",7.3,"2000",PG-13
+A210,"211. Oldboy",8.3,"2003",R
+A211,"212. There Will Be Blood",8.2,"2007",R
+A212,"213. Spider-Man 3",6.3,"2007",PG-13
+A213,"214. 12 Monkeys",8.0,"1995",R
+A214,"215. Cast Away",7.8,"2000",PG-13
+A215,"216. Harry Potter and the Order of the Phoenix",7.5,"2007",PG-13
+A216,"217. Superbad",7.6,"2007",R
+A217,"218. Rocky",8.1,"1976",PG
+A218,"219. Taken",7.7,"2008",PG-13
+A219,"220. Argo",7.7,"2012",R
+A220,"221. The Matrix Reloaded",7.2,"2003",R
+A221,"222. The Notebook",7.8,"2004",PG-13
+A222,"223. Baby Driver",7.5,"2017",R
+A223,"224. Zombieland",7.5,"2009",R
+A224,"225. Ocean's Eleven",7.7,"2001",PG-13
+A225,"226. Toy Story 2",7.9,"1999",G
+A226,"227. Coco",8.4,"2017",PG
+A227,"228. L.A. Confidential",8.2,"1997",R
+A228,"229. It",7.3,"2017",R
+A229,"230. Men in Black",7.3,"1997",PG-13
+A230,"231. Don't Look Up",7.2,"2021",R
+A231,"232. Lock, Stock and Two Smoking Barrels",8.1,"1998",R
+A232,"233. Captain Marvel",6.8,"2019",PG-13
+A233,"234. Nightcrawler",7.8,"2014",R
+A234,"235. Star Trek",7.9,"2009",PG-13
+A235,"236. Zodiac",7.7,"2007",R
+A236,"237. Hacksaw Ridge",8.1,"2016",R
+A237,"238. Casablanca",8.5,"1942",PG
+A238,"239. Limitless",7.4,"2011",PG-13
+A239,"240. Harry Potter and the Deathly Hallows: Part 1",7.7,"2010",PG-13
+A240,"241. Independence Day",7.0,"1996",PG-13
+A241,"242. Tenet",7.3,"2020",PG-13
+A242,"243. A Quiet Place",7.5,"2018",PG-13
+A243,"244. Harry Potter and the Half-Blood Prince",7.6,"2009",PG
+A244,"245. Green Book",8.2,"2018",PG-13
+A245,"246. 21 Jump Street",7.2,"2012",R
+A246,"247. Bohemian Rhapsody",7.9,"2018",PG-13
+A247,"248. The Great Gatsby",7.2,"2013",PG-13
+A248,"249. Shaun of the Dead",7.9,"2004",R
+A249,"250. Looper",7.4,"2012",R
+A250,"251. Ex Machina",7.7,"2014",R
+A251,"252. Kick-Ass",7.6,"2010",R
+A252,"253. Despicable Me",7.6,"2010",PG
+A253,"254. Blood Diamond",8.0,"2006",R
+A254,"255. Minority Report",7.6,"2002",PG-13
+A255,"256. Watchmen",7.6,"2009",R
+A256,"257. X2: X-Men United",7.4,"2003",PG-13
+A257,"258. Dune: Part Two",8.5,"2024",PG-13
+A258,"259. Barbie",6.8,"2023",PG-13
+A259,"260. Back to the Future Part II",7.8,"1989",PG
+A260,"261. I, Robot",7.1,"2004",PG-13
+A261,"262. The Hobbit: The Battle of the Five Armies",7.4,"2014",R
+A262,"263. The Bourne Identity",7.8,"2002",PG-13
+A263,"264. Rise of the Planet of the Apes",7.6,"2011",PG-13
+A264,"265. Troy",7.3,"2004",R
+A265,"266. Spider-Man: Far from Home",7.4,"2019",PG-13
+A266,"267. Crazy, Stupid, Love.",7.4,"2011",PG-13
+A267,"268. Casino",8.2,"1995",R
+A268,"269. The Pursuit of Happyness",8.0,"2006",PG-13
+A269,"270. Monty Python and the Holy Grail",8.2,"1975",PG
+A270,"271. Split",7.3,"2016",PG-13
+A271,"272. 500 Days of Summer",7.7,"2009",PG-13
+A272,"273. Pirates of the Caribbean: On Stranger Tides",6.6,"2011",PG-13
+A273,"274. Dead Poets Society",8.1,"1989",PG
+A274,"275. The Conjuring",7.5,"2013",R
+A275,"276. The Kashmir Files",8.5,"2022",Not Rated
+A276,"277. Three Billboards Outside Ebbing, Missouri",8.1,"2017",R
+A277,"278. Zootopia",8.0,"2016",PG
+A278,"279. Fury",7.6,"2014",R
+A279,"280. Everything Everywhere All at Once",7.8,"2022",R
+A280,"281. Venom",6.6,"2018",PG-13
+A281,"282. Oblivion",7.0,"2013",PG-13
+A282,"283. The Perks of Being a Wallflower",7.9,"2012",PG-13
+A283,"284. Source Code",7.5,"2011",PG-13
+A284,"285. Mr. & Mrs. Smith",6.5,"2005",PG-13
+A285,"286. Juno",7.4,"2007",PG-13
+A286,"287. Rain Man",8.0,"1988",R
+A287,"288. The Matrix Revolutions",6.7,"2003",R
+A288,"289. The Amazing Spider-Man 2",6.6,"2014",PG-13
+A289,"290. X-Men: The Last Stand",6.6,"2006",PG-13
+A290,"291. Love Actually",7.6,"2003",R
+A291,"292. Lucy",6.4,"2014",R
+A292,"293. The Hangover Part II",6.5,"2011",R
+A293,"294. X-Men Origins: Wolverine",6.5,"2009",PG-13
+A294,"295. Hot Fuzz",7.8,"2007",R
+A295,"296. Indiana Jones and the Temple of Doom",7.5,"1984",PG
+A296,"297. Charlie and the Chocolate Factory",6.7,"2005",PG
+A297,"298. American Sniper",7.3,"2014",R
+A298,"299. Kung Fu Panda",7.6,"2008",PG
+A299,"300. Children of Men",7.9,"2006",R
+A300,"301. Pacific Rim",6.9,"2013",PG-13
+A301,"302. Edward Scissorhands",7.9,"1990",PG-13
+A302,"303. Rear Window",8.5,"1954",PG
+A303,"304. Mission: Impossible - Ghost Protocol",7.4,"2011",PG-13
+A304,"305. The Incredible Hulk",6.6,"2008",PG-13
+A305,"306. Ice Age",7.5,"2002",PG
+A306,"307. The Butterfly Effect",7.6,"2004",R
+A307,"308. Aquaman",6.8,"2018",PG-13
+A308,"309. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",8.3,"1964",PG
+A309,"310. John Wick: Chapter 2",7.4,"2017",R
+A310,"311. Little Miss Sunshine",7.8,"2006",R
+A311,"312. Dallas Buyers Club",7.9,"2013",R
+A312,"313. The Maze Runner",6.8,"2014",PG-13
+A313,"314. Rush",8.1,"2013",R
+A314,"315. Avatar: The Way of Water",7.5,"2022",PG-13
+A315,"316. Hancock",6.4,"2008",R
+A316,"317. Shrek 2",7.4,"2004",PG
+A317,"318. It's a Wonderful Life",8.6,"1946",PG
+A318,"319. Big Hero 6",7.8,"2014",PG
+A319,"320. The Fifth Element",7.6,"1997",PG-13
+A320,"321. Fantastic Beasts and Where to Find Them",7.2,"2016",PG-13
+A321,"322. Top Gun",6.9,"1986",PG
+A322,"323. The Hunger Games: Mockingjay - Part 1",6.6,"2014",PG-13
+A323,"324. Spotlight",8.1,"2015",R
+A324,"325. Tangled",7.7,"2010",PG
+A325,"326. Star Wars: Episode IX - The Rise of Skywalker",6.4,"2019",PG-13
+A326,"327. Ford v Ferrari",8.1,"2019",PG-13
+A327,"328. Warrior",8.1,"2011",PG-13
+A328,"329. The Terminal",7.4,"2004",PG-13
+A329,"330. Ready Player One",7.4,"2018",PG-13
+A330,"331. The Girl with the Dragon Tattoo",7.8,"2011",R
+A331,"332. The Wolverine",6.7,"2013",PG-13
+A332,"333. The Help",8.1,"2011",PG-13
+A333,"334. American Hustle",7.2,"2013",R
+A334,"335. Lost in Translation",7.7,"2003",R
+A335,"336. Doctor Strange in the Multiverse of Madness",6.9,"2022",PG-13
+A336,"337. Captain Phillips",7.8,"2013",PG-13
+A337,"338. The Big Short",7.8,"2015",R
+A338,"339. Star Trek Into Darkness",7.7,"2013",PG-13
+A339,"340. We're the Millers",7.0,"2013",R
+A340,"341. Twilight",5.3,"2008",PG-13
+A341,"342. Divergent",6.6,"2014",PG-13
+A342,"343. Indiana Jones and the Kingdom of the Crystal Skull",6.2,"2008",PG-13
+A343,"344. Sicario",7.7,"2015",R
+A344,"345. Mystic River",7.9,"2003",R
+A345,"346. The Bourne Supremacy",7.7,"2004",PG-13
+A346,"347. Dawn of the Planet of the Apes",7.6,"2014",PG-13
+A347,"348. Back to the Future Part III",7.5,"1990",PG
+A348,"349. Cars",7.3,"2006",G
+A349,"350. The Day After Tomorrow",6.5,"2004",PG-13
+A350,"351. The Devil Wears Prada",6.9,"2006",PG-13
+A351,"352. The Theory of Everything",7.7,"2014",PG-13
+A352,"353. The Thing",8.2,"1982",R
+A353,"354. Training Day",7.8,"2001",R
+A354,"355. Sherlock Holmes: A Game of Shadows",7.4,"2011",PG-13
+A355,"356. Beauty and the Beast",8.0,"1991",G
+A356,"357. Justice League",6.0,"2017",PG-13
+A357,"358. War of the Worlds",6.5,"2005",PG-13
+A358,"359. Gangs of New York",7.5,"2002",R
+A359,"360. Saw",7.6,"2004",R
+A360,"361. The Last Samurai",7.8,"2003",R
+A361,"362. Mission: Impossible",7.2,"1996",PG-13
+A362,"363. Aladdin",8.0,"1992",G
+A363,"364. The Hurt Locker",7.5,"2008",R
+A364,"365. The 40-Year-Old Virgin",7.1,"2005",R
+A365,"366. Moneyball",7.6,"2011",PG-13
+A366,"367. Quantum of Solace",6.5,"2008",PG-13
+A367,"368. Elysium",6.6,"2013",R
+A368,"369. Bullet Train",7.3,"2022",R
+A369,"370. Scott Pilgrim vs. the World",7.5,"2010",PG-13
+A370,"371. Spectre",6.8,"2015",PG-13
+A371,"372. Citizen Kane",8.3,"1941",PG
+A372,"373. The Mummy",7.1,"1999",PG-13
+A373,"374. Horrible Bosses",6.9,"2011",R
+A374,"375. X-Men: Apocalypse",6.8,"2016",PG-13
+A375,"376. In Bruges",7.9,"2008",R
+A376,"377. Wreck-It Ralph",7.7,"2012",PG
+A377,"378. Howl's Moving Castle",8.2,"2004",PG
+A378,"379. The Exorcist",8.1,"1973",R
+A379,"380. Predator",7.8,"1987",R
+A380,"381. Jumanji: Welcome to the Jungle",7.0,"2017",PG-13
+A381,"382. The Da Vinci Code",6.6,"2006",PG-13
+A382,"383. Glass Onion",7.1,"2022",PG-13
+A383,"384. Passengers",7.0,"2016",PG-13
+A384,"385. American Gangster",7.8,"2007",R
+A385,"386. 28 Days Later",7.5,"2002",R
+A386,"387. The Cabin in the Woods",7.0,"2011",R
+A387,"388. Big Fish",8.0,"2003",PG-13
+A388,"389. Ant-Man and the Wasp",7.0,"2018",PG-13
+A389,"390. Ghostbusters",7.8,"1984",PG
+A390,"391. Room",8.1,"2015",R
+A391,"392. Tropic Thunder",7.1,"2008",R
+A392,"393. Deadpool & Wolverine",7.6,"2024",R
+A393,"394. Armageddon",6.7,"1998",PG-13
+A394,"395. In Time",6.7,"2011",PG-13
+A395,"396. The Princess Bride",8.0,"1987",PG
+A396,"397. No Time to Die",7.3,"2021",PG-13
+A397,"398. Jojo Rabbit",7.9,"2019",PG-13
+A398,"399. Midnight in Paris",7.6,"2011",PG-13
+A399,"400. Stand by Me",8.1,"1986",R
+A400,"401. Brave",7.1,"2012",PG
+A401,"402. The Shape of Water",7.3,"2017",R
+A402,"403. King Kong",7.2,"2005",PG-13
+A403,"404. Borat",7.4,"2006",R
+A404,"405. Mean Girls",7.1,"2004",PG-13
+A405,"406. Shang-Chi and the Legend of the Ten Rings",7.3,"2021",PG-13
+A406,"407. The Lost World: Jurassic Park",6.6,"1997",PG-13
+A407,"408. Free Guy",7.1,"2021",PG-13
+A408,"409. Crash",7.7,"2004",R
+A409,"410. Unbreakable",7.3,"2000",PG-13
+A410,"411. Madagascar",6.9,"2005",PG
+A411,"412. Princess Mononoke",8.3,"1997",PG-13
+A412,"413. 3 Idiots",8.4,"2009",PG-13
+A413,"414. The Breakfast Club",7.8,"1985",R
+A414,"415. Alice in Wonderland",6.4,"2010",PG
+A415,"416. Zack Snyder's Justice League",7.9,"2021",R
+A416,"417. Godzilla",6.4,"2014",PG-13
+A417,"418. Platoon",8.1,"1986",R
+A418,"419. E.T. the Extra-Terrestrial",7.9,"1982",PG
+A419,"420. Unforgiven",8.2,"1992",R
+A420,"421. Bruce Almighty",6.8,"2003",PG-13
+A421,"422. The Irishman",7.8,"2019",R
+A422,"423. The Game",7.7,"1997",R
+A423,"424. American Pie",7.0,"1999",R
+A424,"425. John Wick: Chapter 3 - Parabellum",7.4,"2019",R
+A425,"426. The Wizard of Oz",8.1,"1939",G
+A426,"427. Collateral",7.5,"2004",R
+A427,"428. Black Widow",6.6,"2021",PG-13
+A428,"429. Amadeus",8.4,"1984",PG
+A429,"430. This Is the End",6.6,"2013",R
+A430,"431. Transformers: Dark of the Moon",6.2,"2011",PG-13
+A431,"432. Vertigo",8.3,"1958",PG
+A432,"433. The Mask",7.0,"1994",PG-13
+A433,"434. The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",6.9,"2005",PG
+A434,"435. Despicable Me 2",7.3,"2013",PG
+A435,"436. The Equalizer",7.3,"2014",R
+A436,"437. Midsommar",7.1,"2019",R
+A437,"438. Transformers: Revenge of the Fallen",6.0,"2009",PG-13
+A438,"439. The Menu",7.2,"2022",R
+A439,"440. The Godfather Part III",7.6,"1990",R
+A440,"441. Black Hawk Down",7.7,"2001",R
+A441,"442. Spider-Man: Across the Spider-Verse",8.5,"2023",PG
+A442,"443. The Fast and the Furious",6.8,"2001",PG-13
+A443,"444. A Star Is Born",7.6,"2018",R
+A444,"445. Cloverfield",7.0,"2008",PG-13
+A445,"446. Easy A",7.0,"2010",PG-13
+A446,"447. The Suicide Squad",7.2,"2021",R
+A447,"448. Live Free or Die Hard",7.1,"2007",PG-13
+A448,"449. Monty Python's Life of Brian",8.0,"1979",R
+A449,"450. The Town",7.5,"2010",R
+A450,"451. The Gentlemen",7.8,"2019",R
+A451,"452. Terminator 3: Rise of the Machines",6.3,"2003",R
+A452,"453. The Machinist",7.6,"2004",R
+A453,"454. Fast & Furious 6",7.0,"2013",PG-13
+A454,"455. Home Alone 2: Lost in New York",6.9,"1992",PG
+A455,"456. Dumb and Dumber",7.3,"1994",PG-13
+A456,"457. Thor: Love and Thunder",6.2,"2022",PG-13
+A457,"458. Furious 7",7.1,"2015",PG-13
+A458,"459. The Lives of Others",8.4,"2006",R
+A459,"460. Ocean's Twelve",6.5,"2004",PG-13
+A460,"461. Mission: Impossible - Rogue Nation",7.4,"2015",PG-13
+A461,"462. 22 Jump Street",7.0,"2014",R
+A462,"463. Die Hard with a Vengeance",7.6,"1995",R
+A463,"464. Wanted",6.7,"2008",R
+A464,"465. The Devil's Advocate",7.5,"1997",R
+A465,"466. Fast Five",7.3,"2011",PG-13
+A466,"467. Batman",7.5,"1989",PG-13
+A467,"468. Guardians of the Galaxy Vol. 3",7.9,"2023",PG-13
+A468,"469. Men in Black II",6.2,"2002",PG-13
+A469,"470. The Fault in Our Stars",7.6,"2014",PG-13
+A470,"471. Scream",7.4,"1996",R
+A471,"472. Face/Off",7.3,"1997",R
+A472,"473. 127 Hours",7.5,"2010",R
+A473,"474. Hereditary",7.3,"2018",R
+A474,"475. 10 Things I Hate About You",7.3,"1999",PG-13
+A475,"476. Maleficent",6.9,"2014",PG
+A476,"477. Inside Man",7.6,"2006",R
+A477,"478. 2012",5.8,"2009",PG-13
+A478,"479. Moana",7.6,"2016",PG
+A479,"480. About Time",7.8,"2013",R
+A480,"481. The Others",7.6,"2001",PG-13
+A481,"482. Friends with Benefits",6.5,"2011",R
+A482,"483. Monsters University",7.2,"2013",G
+A483,"484. Speed",7.3,"1994",R
+A484,"485. Bird Box",6.6,"2018",R
+A485,"486. Eternals",6.3,"2021",PG-13
+A486,"487. Snowpiercer",7.1,"2013",R
+A487,"488. Soul",8.0,"2020",PG
+A488,"489. Mission: Impossible III",6.9,"2006",PG-13
+A489,"490. Mulholland Drive",7.9,"2001",R
+A490,"491. My Neighbor Totoro",8.1,"1988",G
+A491,"492. Man on Fire",7.7,"2004",R
+A492,"493. Ferris Bueller's Day Off",7.8,"1986",PG-13
+A493,"494. Beetlejuice",7.5,"1988",PG
+A494,"495. Signs",6.8,"2002",PG-13
+A495,"496. The Lego Movie",7.7,"2014",PG
+A496,"497. Men in Black³",6.8,"2012",PG-13
+A497,"498. Brokeback Mountain",7.7,"2005",R
+A498,"499. The Fighter",7.8,"2010",R
+A499,"500. Shazam!",7.0,"2019",PG-13
+A500,"501. The Italian Job",7.0,"2003",PG-13
+A501,"502. Sleepy Hollow",7.3,"1999",R
+A502,"503. Sweeney Todd: The Demon Barber of Fleet Street",7.3,"2007",R
+A503,"504. The Illusionist",7.5,"2006",PG-13
+A504,"505. Die Hard 2",7.1,"1990",R
+A505,"506. 50 First Dates",6.8,"2004",PG-13
+A506,"507. Eyes Wide Shut",7.5,"1999",TV-MA
+A507,"508. The Nightmare Before Christmas",7.9,"1993",PG
+A508,"509. The Aviator",7.5,"2004",PG-13
+A509,"510. Yes Man",6.8,"2008",PG-13
+A510,"511. Raging Bull",8.1,"1980",R
+A511,"512. Jumanji",7.1,"1995",PG
+A512,"513. Once Upon a Time in America",8.3,"1984",R
+A513,"514. Knocked Up",6.9,"2007",R
+A514,"515. Mission: Impossible - Fallout",7.7,"2018",PG-13
+A515,"516. Solo: A Star Wars Story",6.9,"2018",PG-13
+A516,"517. Night at the Museum",6.5,"2006",PG
+A517,"518. The Nice Guys",7.4,"2016",R
+A518,"519. The Hunger Games: Mockingjay - Part 2",6.6,"2015",PG-13
+A519,"520. Anchorman: The Legend of Ron Burgundy",7.1,"2004",PG-13
+A520,"521. Mission: Impossible II",6.1,"2000",PG-13
+A521,"522. Constantine",7.0,"2005",R
+A522,"523. Jackie Brown",7.5,"1997",R
+A523,"524. The Ring",7.1,"2002",PG-13
+A524,"525. Downfall",8.2,"2004",R
+A525,"526. Flight",7.3,"2012",R
+A526,"527. Wedding Crashers",7.0,"2005",R
+A527,"528. Terminator Salvation",6.5,"2009",PG-13
+A528,"529. Moon",7.8,"2009",R
+A529,"530. The Hunt",8.3,"2012",R
+A530,"531. Hotel Rwanda",8.1,"2004",PG-13
+A531,"532. Kingsman: The Golden Circle",6.7,"2017",R
+A532,"533. Pretty Woman",7.1,"1990",R
+A533,"534. Seven Samurai",8.6,"1954",Not Rated
+A534,"535. Cloud Atlas",7.4,"2012",R
+A535,"536. How to Train Your Dragon 2",7.8,"2014",PG
+A536,"537. The Proposal",6.8,"2009",PG-13
+A537,"538. Jack Reacher",7.0,"2012",PG-13
+A538,"539. Ocean's Thirteen",6.9,"2007",PG-13
+A539,"540. Annihilation",6.8,"2018",R
+A540,"541. Boyhood",7.9,"2014",R
+A541,"542. Super 8",7.0,"2011",PG-13
+A542,"543. Moonrise Kingdom",7.8,"2012",PG-13
+A543,"544. The Deer Hunter",8.1,"1978",R
+A544,"545. The Blind Side",7.6,"2009",PG-13
+A545,"546. The Expendables",6.4,"2010",R
+A546,"547. Click",6.4,"2006",PG-13
+A547,"548. 10 Cloverfield Lane",7.2,"2016",PG-13
+A548,"549. Real Steel",7.1,"2011",PG-13
+A549,"550. John Wick: Chapter 4",7.6,"2023",R
+A550,"551. The Rock",7.4,"1996",R
+A551,"552. Meet the Parents",7.0,"2000",PG-13
+A552,"553. National Treasure",6.9,"2004",PG
+A553,"554. True Grit",7.6,"2010",PG-13
+A554,"555. Total Recall",7.5,"1990",R
+A555,"556. The Interview",6.5,"2014",R
+A556,"557. Shooter",7.1,"2007",R
+A557,"558. Due Date",6.5,"2010",R
+A558,"559. Pineapple Express",6.9,"2008",R
+A559,"560. Once Upon a Time in the West",8.5,"1968",PG-13
+A560,"561. Tron: Legacy",6.8,"2010",PG
+A561,"562. Burn After Reading",7.0,"2008",R
+A562,"563. Chinatown",8.1,"1974",R
+A563,"564. Pirates of the Caribbean: Dead Men Tell No Tales",6.5,"2017",PG-13
+A564,"565. Being John Malkovich",7.7,"1999",R
+A565,"566. Kong: Skull Island",6.7,"2017",PG-13
+A566,"567. Us",6.8,"2019",R
+A567,"568. Notting Hill",7.2,"1999",PG-13
+A568,"569. Interview with the Vampire",7.5,"1994",R
+A569,"570. Hellboy",6.9,"2004",PG-13
+A570,"571. Pearl Harbor",6.2,"2001",PG-13
+A571,"572. North by Northwest",8.3,"1959",Approved
+A572,"573. Marriage Story",7.9,"2019",R
+A573,"574. The Simpsons Movie",7.3,"2007",PG-13
+A574,"575. Jurassic World: Fallen Kingdom",6.1,"2018",PG-13
+A575,"576. The Mummy Returns",6.4,"2001",PG-13
+A576,"577. The Mist",7.1,"2007",R
+A577,"578. Before Sunrise",8.1,"1995",R
+A578,"579. Up in the Air",7.4,"2009",R
+A579,"580. Equilibrium",7.3,"2002",R
+A580,"581. Fantastic Four",5.7,"2005",PG-13
+A581,"582. Les Misérables",7.5,"2012",PG-13
+A582,"583. From Dusk Till Dawn",7.2,"1996",R
+A583,"584. The Secret Life of Walter Mitty",7.3,"2013",PG
+A584,"585. Insidious",6.8,"2010",PG-13
+A585,"586. Jurassic Park III",5.9,"2001",PG-13
+A586,"587. The Book of Eli",6.8,"2010",R
+A587,"588. Lady Bird",7.4,"2017",R
+A588,"589. The Dictator",6.5,"2012",R
+A589,"590. 50/50",7.6,"2011",R
+A590,"591. Your Name.",8.4,"2016",1h 46m
+A591,"592. Incredibles 2",7.5,"2018",PG
+A592,"593. Lord of War",7.6,"2005",R
+A593,"594. Liar Liar",6.9,"1997",PG-13
+A594,"595. The Holiday",7.0,"2006",PG-13
+A595,"596. Pride & Prejudice",7.8,"2005",PG
+A596,"597. The Hangover Part III",5.8,"2013",R
+A597,"598. The Man from U.N.C.L.E.",7.2,"2015",PG-13
+A598,"599. Scent of a Woman",8.0,"1992",R
+A599,"600. Beauty and the Beast",7.1,"2017",PG
+A600,"601. Fifty Shades of Grey",4.2,"2015",R
+A601,"602. Gone with the Wind",8.2,"1939",G
+A602,"603. Shrek the Third",6.1,"2007",PG
+A603,"604. Nobody",7.4,"2021",R
+A604,"605. School of Rock",7.2,"2003",PG-13
+A605,"606. Hugo",7.5,"2011",PG
+A606,"607. Donnie Brasco",7.7,"1997",R
+A607,"608. Apocalypto",7.8,"2006",R
+A608,"609. To Kill a Mockingbird",8.3,"1962",Approved
+A609,"610. Hitch",6.6,"2005",PG-13
+A610,"611. 3:10 to Yuma",7.6,"2007",R
+A611,"612. The Untouchables",7.8,"1987",R
+A612,"613. Moonlight",7.4,"2016",R
+A613,"614. O Brother, Where Art Thou?",7.7,"2000",PG-13
+A614,"615. Transformers: Age of Extinction",5.6,"2014",PG-13
+A615,"616. Grave of the Fireflies",8.5,"1988",Not Rated
+A616,"617. Pitch Perfect",7.1,"2012",PG-13
+A617,"618. Batman Returns",7.1,"1992",PG-13
+A618,"619. Alien³",6.4,"1992",R
+A619,"620. There's Something About Mary",7.1,"1998",R
+A620,"621. The Accountant",7.3,"2016",R
+A621,"622. Neighbors",6.3,"2014",R
+A622,"623. Ace Ventura: Pet Detective",6.9,"1994",PG-13
+A623,"624. Magnolia",8.0,"1999",R
+A624,"625. Salt",6.5,"2010",PG-13
+A625,"626. Deja Vu",7.1,"2006",PG-13
+A626,"627. Kung Fu Panda 2",7.3,"2011",PG
+A627,"628. Red Notice",6.3,"2021",PG-13
+A628,"629. Call Me by Your Name",7.8,"2017",R
+A629,"630. 8 Mile",7.2,"2002",R
+A630,"631. Bridge of Spies",7.6,"2015",PG-13
+A631,"632. Now You See Me 2",6.4,"2016",PG-13
+A632,"633. Gattaca",7.7,"1997",PG-13
+A633,"634. The Island",6.8,"2005",PG-13
+A634,"635. Starship Troopers",7.3,"1997",R
+A635,"636. Uncut Gems",7.4,"2019",R
+A636,"637. Lucky Number Slevin",7.7,"2006",R
+A637,"638. Law Abiding Citizen",7.4,"2009",R
+A638,"639. RED",7.0,"2010",PG-13
+A639,"640. Jumper",6.1,"2008",PG-13
+A640,"641. The Fugitive",7.8,"1993",PG-13
+A641,"642. A.I. Artificial Intelligence",7.2,"2001",PG-13
+A642,"643. Kingdom of Heaven",7.3,"2005",R
+A643,"644. Taken 2",6.2,"2012",PG-13
+A644,"645. Elf",7.1,"2003",PG
+A645,"646. Step Brothers",6.9,"2008",R
+A646,"647. Mulan",7.7,"1998",G
+A647,"648. The Transporter",6.8,"2002",PG-13
+A648,"649. Zero Dark Thirty",7.4,"2012",R
+A649,"650. Manchester by the Sea",7.8,"2016",R
+A650,"651. Con Air",6.9,"1997",R
+A651,"652. The Expendables 2",6.6,"2012",R
+A652,"653. Insomnia",7.2,"2002",R
+A653,"654. Poor Things",7.8,"2023",R
+A654,"655. The Greatest Showman",7.5,"2017",PG
+A655,"656. Alien: Covenant",6.4,"2017",R
+A656,"657. Public Enemies",6.9,"2009",R
+A657,"658. As Good as It Gets",7.7,"1997",PG-13
+A658,"659. The Witch",7.0,"2015",R
+A659,"660. Lawrence of Arabia",8.3,"1962",PG
+A660,"661. Nocturnal Animals",7.4,"2016",R
+A661,"662. The Wrestler",7.9,"2008",R
+A662,"663. Black Panther: Wakanda Forever",6.7,"2022",PG-13
+A663,"664. Apollo 13",7.7,"1995",PG
+A664,"665. Hachi: A Dog's Tale",8.1,"2009",G
+A665,"666. A Bug's Life",7.2,"1998",G
+A666,"667. Babel",7.5,"2006",R
+A667,"668. Contagion",6.8,"2011",PG-13
+A668,"669. Death Proof",7.0,"2007",R
+A669,"670. 300: Rise of an Empire",6.2,"2014",R
+A670,"671. Halloween",7.7,"1978",R
+A671,"672. The Bourne Legacy",6.6,"2012",PG-13
+A672,"673. Fast & Furious",6.5,"2009",PG-13
+A673,"674. Seven Pounds",7.6,"2008",PG-13
+A674,"675. The Royal Tenenbaums",7.6,"2001",R
+A675,"676. It Chapter Two",6.5,"2019",R
+A676,"677. Fantastic Beasts: The Crimes of Grindelwald",6.5,"2018",PG-13
+A677,"678. Creed",7.6,"2015",PG-13
+A678,"679. Predestination",7.4,"2014",R
+A679,"680. Finding Dory",7.2,"2016",PG
+A680,"681. Angels & Demons",6.7,"2009",PG-13
+A681,"682. Bridesmaids",6.8,"2011",R
+A682,"683. The Conjuring 2",7.3,"2016",R
+A683,"684. Don't Breathe",7.1,"2016",R
+A684,"685. The Lobster",7.1,"2015",R
+A685,"686. Blade",7.1,"1998",R
+A686,"687. Lone Survivor",7.5,"2013",R
+A687,"688. War for the Planet of the Apes",7.4,"2017",PG-13
+A688,"689. The Fast and the Furious: Tokyo Drift",6.1,"2006",PG-13
+A689,"690. Corpse Bride",7.4,"2005",PG
+A690,"691. Grease",7.2,"1978",PG
+A691,"692. How the Grinch Stole Christmas",6.4,"2000",PG
+A692,"693. El Camino",7.3,"2019",TV-MA
+A693,"694. Atonement",7.8,"2007",R
+A694,"695. Prince of Persia: The Sands of Time",6.5,"2010",PG-13
+A695,"696. Serenity",7.8,"2005",PG-13
+A696,"697. The Goonies",7.7,"1985",PG
+A697,"698. Forgetting Sarah Marshall",7.1,"2008",R
+A698,"699. Sully",7.4,"2016",PG-13
+A699,"700. Fear and Loathing in Las Vegas",7.5,"1998",R
+A700,"701. Alita: Battle Angel",7.3,"2019",PG-13
+A701,"702. The Twilight Saga: New Moon",4.8,"2009",PG-13
+A702,"703. Murder on the Orient Express",6.5,"2017",PG-13
+A703,"704. Snow White and the Huntsman",6.1,"2012",PG-13
+A704,"705. Rush Hour",7.0,"1998",PG-13
+A705,"706. 2 Fast 2 Furious",5.9,"2003",PG-13
+A706,"707. Megamind",7.3,"2010",PG
+A707,"708. 28 Weeks Later",6.9,"2007",R
+A708,"709. Moulin Rouge!",7.6,"2001",PG-13
+A709,"710. Ice Age: The Meltdown",6.8,"2006",PG
+A710,"711. Me Before You",7.4,"2016",PG-13
+A711,"712. Panic Room",6.8,"2002",R
+A712,"713. The World's End",6.9,"2013",R
+A713,"714. Zoolander",6.5,"2001",R
+A714,"715. Bad Boys",6.8,"1995",R
+A715,"716. 1408",6.8,"2007",PG-13
+A716,"717. Rango",7.3,"2011",PG
+A717,"718. Hannibal",6.8,"2001",R
+A718,"719. Green Lantern",5.5,"2011",PG-13
+A719,"720. Dredd",7.1,"2012",R
+A720,"721. The Patriot",7.2,"2000",R
+A721,"722. The Platform",7.0,"2019",TV-MA
+A722,"723. Mrs. Doubtfire",7.1,"1993",PG-13
+A723,"724. Almost Famous",7.9,"2000",R
+A724,"725. Gone in 60 Seconds",6.5,"2000",PG-13
+A725,"726. Contact",7.5,"1997",PG
+A726,"727. Red Dragon",7.2,"2002",R
+A727,"728. Gone Baby Gone",7.6,"2007",R
+A728,"729. Aladdin",6.9,"2019",PG
+A729,"730. BlacKkKlansman",7.5,"2018",R
+A730,"731. Scary Movie",6.3,"2000",R
+A731,"732. Wonder Woman 1984",5.4,"2020",PG-13
+A732,"733. The Little Mermaid",7.6,"1989",G
+A733,"734. The Blair Witch Project",6.5,"1999",R
+A734,"735. Jumanji: The Next Level",6.6,"2019",PG-13
+A735,"736. A Few Good Men",7.7,"1992",R
+A736,"737. A Quiet Place Part II",7.2,"2020",PG-13
+A737,"738. Dances with Wolves",8.0,"1990",PG-13
+A738,"739. Olympus Has Fallen",6.5,"2013",R
+A739,"740. Before Sunset",8.1,"2004",R
+A740,"741. Terminator Genisys",6.3,"2015",PG-13
+A741,"742. Clash of the Titans",5.8,"2010",PG-13
+A742,"743. The Jungle Book",7.3,"2016",PG
+A743,"744. Cinema Paradiso",8.5,"1988",PG
+A744,"745. The Place Beyond the Pines",7.3,"2012",R
+A745,"746. Resident Evil",6.6,"2002",R
+A746,"747. Office Space",7.6,"1999",R
+A747,"748. The Other Guys",6.7,"2010",PG-13
+A748,"749. Sinister",6.8,"2012",R
+A749,"750. Jerry Maguire",7.3,"1996",R
+A750,"751. Van Helsing",6.1,"2004",PG-13
+A751,"752. Superman Returns",6.1,"2006",PG-13
+A752,"753. The Graduate",8.0,"1967",PG
+A753,"754. Kick-Ass 2",6.5,"2013",R
+A754,"755. Nope",6.8,"2022",R
+A755,"756. Meet the Fockers",6.3,"2004",PG-13
+A756,"757. Hotel Transylvania",7.0,"2012",PG
+A757,"758. Toy Story 4",7.6,"2019",G
+A758,"759. Final Destination",6.7,"2000",R
+A759,"760. RoboCop",7.6,"1987",R
+A760,"761. Phone Booth",7.1,"2002",R
+A761,"762. Wind River",7.7,"2017",R
+A762,"763. Vanilla Sky",6.9,"2001",R
+A763,"764. Underworld",7.0,"2003",R
+A764,"765. Some Like It Hot",8.2,"1959",Approved
+A765,"766. Hellboy II: The Golden Army",7.0,"2008",PG-13
+A766,"767. John Carter",6.6,"2012",PG-13
+A767,"768. Road to Perdition",7.7,"2002",R
+A768,"769. How to Lose a Guy in 10 Days",6.5,"2003",PG-13
+A769,"770. Grown Ups",6.0,"2010",PG-13
+A770,"771. The Matrix Resurrections",5.6,"2021",R
+A771,"772. Stardust",7.6,"2007",PG-13
+A772,"773. Glass",6.6,"2019",PG-13
+A773,"774. True Lies",7.3,"1994",R
+A774,"775. Robin Hood",6.6,"2010",PG-13
+A775,"776. Boogie Nights",7.9,"1997",R
+A776,"777. The Intern",7.1,"2015",PG-13
+A777,"778. Maze Runner: The Scorch Trials",6.3,"2015",PG-13
+A778,"779. Black Adam",6.2,"2022",PG-13
+A779,"780. The Sting",8.3,"1973",PG
+A780,"781. Mamma Mia!",6.5,"2008",PG-13
+A781,"782. Warcraft",6.7,"2016",PG-13
+A782,"783. Dark Shadows",6.2,"2012",PG-13
+A783,"784. Crouching Tiger, Hidden Dragon",7.9,"2000",PG-13
+A784,"785. The Village",6.6,"2004",PG-13
+A785,"786. First Blood",7.7,"1982",R
+A786,"787. Saw II",6.6,"2005",R
+A787,"788. For a Few Dollars More",8.2,"1965",R
+A788,"789. Lethal Weapon",7.6,"1987",R
+A789,"790. Focus",6.6,"2015",R
+A790,"791. Hulk",5.6,"2003",PG-13
+A791,"792. Fantastic Four: Rise of the Silver Surfer",5.6,"2007",PG
+A792,"793. It Follows",6.8,"2014",R
+A793,"794. Enemy at the Gates",7.5,"2001",R
+A794,"795. Annie Hall",7.9,"1977",PG
+A795,"796. Fantastic Mr. Fox",7.9,"2009",PG
+A796,"797. Venom: Let There Be Carnage",5.9,"2021",PG-13
+A797,"798. Non-Stop",6.9,"2014",PG-13
+A798,"799. Blow",7.5,"2001",R
+A799,"800. Hook",6.8,"1991",PG
+A800,"801. Coraline",7.8,"2009",PG
+A801,"802. Dog Day Afternoon",8.0,"1975",R
+A802,"803. Seven Psychopaths",7.1,"2012",R
+A803,"804. Dawn of the Dead",7.2,"2004",R
+A804,"805. Alien Resurrection",6.2,"1997",R
+A805,"806. The Lion King",6.8,"2019",PG
+A806,"807. Bad Boys II",6.6,"2003",R
+A807,"808. Train to Busan",7.6,"2016",Not Rated
+A808,"809. Cruella",7.3,"2021",PG-13
+A809,"810. End of Watch",7.6,"2012",R
+A810,"811. Meet Joe Black",7.2,"1998",PG-13
+A811,"812. Encanto",7.2,"2021",PG
+A812,"813. Lincoln",7.3,"2012",PG-13
+A813,"814. Uncharted",6.3,"2022",PG-13
+A814,"815. Identity",7.3,"2003",R
+A815,"816. American Pie 2",6.4,"2001",R
+A816,"817. The Lighthouse",7.4,"2019",R
+A817,"818. The Adjustment Bureau",7.0,"2011",PG-13
+A818,"819. Chappie",6.8,"2015",R
+A819,"820. GoldenEye",7.2,"1995",PG-13
+A820,"821. Das Boot",8.4,"1981",2h 29m
+A821,"822. Mission: Impossible - Dead Reckoning Part One",7.7,"2023",PG-13
+A822,"823. A Nightmare on Elm Street",7.4,"1984",R
+A823,"824. Just Go with It",6.4,"2011",PG-13
+A824,"825. Extraction",6.8,"2020",R
+A825,"826. Sunshine",7.2,"2007",R
+A826,"827. Dodgeball: A True Underdog Story",6.7,"2004",PG-13
+A827,"828. Batman & Robin",3.8,"1997",PG-13
+A828,"829. Killers of the Flower Moon",7.6,"2023",R
+A829,"830. Vicky Cristina Barcelona",7.1,"2008",PG-13
+A830,"831. The Northman",7.0,"2022",R
+A831,"832. Ice Age: Dawn of the Dinosaurs",6.9,"2009",PG
+A832,"833. The Banshees of Inisherin",7.7,"2022",R
+A833,"834. Bridget Jones's Diary",6.8,"2001",R
+A834,"835. War Dogs",7.1,"2016",R
+A835,"836. Batman Forever",5.4,"1995",PG-13
+A836,"837. The Sound of Music",8.1,"1965",G
+A837,"838. Unknown",6.8,"2011",PG-13
+A838,"839. Paul",6.9,"2011",R
+A839,"840. The A-Team",6.7,"2010",PG-13
+A840,"841. Walk the Line",7.8,"2005",PG-13
+A841,"842. Birds of Prey and the Fantabulous Emancipation of One Harley Quinn",6.1,"2020",R
+A842,"843. 21",6.8,"2008",PG-13
+A843,"844. Perfume: The Story of a Murderer",7.5,"2006",R
+A844,"845. Airplane!",7.7,"1980",PG
+A845,"846. Total Recall",6.2,"2012",PG-13
+A846,"847. Noah",5.8,"2014",PG-13
+A847,"848. Minions",6.4,"2015",PG
+A848,"849. Singin' in the Rain",8.3,"1952",G
+A849,"850. Modern Times",8.5,"1936",G
+A850,"851. The Twilight Saga: Breaking Dawn - Part 2",5.6,"2012",PG-13
+A851,"852. Hidden Figures",7.8,"2016",PG
+A852,"853. Changeling",7.7,"2008",R
+A853,"854. Crank",6.9,"2006",R
+A854,"855. RocknRolla",7.2,"2008",R
+A855,"856. The Elephant Man",8.2,"1980",PG
+A856,"857. Eastern Promises",7.6,"2007",R
+A857,"858. Chronicle",7.0,"2012",PG-13
+A858,"859. Cloudy with a Chance of Meatballs",6.9,"2009",PG
+A859,"860. The Twilight Saga: Eclipse",5.1,"2010",PG-13
+A860,"861. Ad Astra",6.5,"2019",PG-13
+A861,"862. The Invisible Man",7.1,"2020",R
+A862,"863. The Grey",6.7,"2011",R
+A863,"864. All Quiet on the Western Front",7.8,"2022",R
+A864,"865. The Reader",7.6,"2008",R
+A865,"866. A Separation",8.3,"2011",PG-13
+A866,"867. Furiosa: A Mad Max Saga",7.5,"2024",R
+A867,"868. Dirty Dancing",7.1,"1987",PG-13
+A868,"869. Southpaw",7.3,"2015",R
+A869,"870. The Great Escape",8.2,"1963",Approved
+A870,"871. Spy",7.0,"2015",R
+A871,"872. Valkyrie",7.1,"2008",PG-13
+A872,"873. Enemy of the State",7.3,"1998",R
+A873,"874. The Bucket List",7.4,"2007",PG-13
+A874,"875. Philadelphia",7.7,"1993",PG-13
+A875,"876. San Andreas",6.1,"2015",PG-13
+A876,"877. Hercules",7.3,"1997",G
+A877,"878. Life",6.6,"2017",R
+A878,"879. Austin Powers: International Man of Mystery",7.0,"1997",PG-13
+A879,"880. Disturbia",6.8,"2007",PG-13
+A880,"881. Star Trek Beyond",7.0,"2016",PG-13
+A881,"882. Escape Plan",6.7,"2013",R
+A882,"883. Paranormal Activity",6.3,"2007",R
+A883,"884. Orphan",7.0,"2009",R
+A884,"885. Game Night",6.9,"2018",R
+A885,"886. Little Women",7.8,"2019",PG
+A886,"887. Hell or High Water",7.6,"2016",R
+A887,"888. The Divergent Series: Insurgent",6.2,"2015",PG-13
+A888,"889. Battleship",5.8,"2012",PG-13
+A889,"890. Legally Blonde",6.5,"2001",PG-13
+A890,"891. The Fate of the Furious",6.6,"2017",PG-13
+A891,"892. A History of Violence",7.4,"2005",R
+A892,"893. The Tourist",6.0,"2010",PG-13
+A893,"894. The Road",7.2,"2009",R
+A894,"895. The Twilight Saga: Breaking Dawn - Part 1",4.9,"2011",PG-13
+A895,"896. The Lincoln Lawyer",7.3,"2011",R
+A896,"897. Ben-Hur",8.1,"1959",G
+A897,"898. What's Eating Gilbert Grape",7.7,"1993",PG-13
+A898,"899. National Treasure: Book of Secrets",6.5,"2007",PG
+A899,"900. The Super Mario Bros. Movie",7.0,"2023",PG
+A900,"901. Gremlins",7.3,"1984",PG
+A901,"902. Happy Gilmore",7.0,"1996",PG-13
+A902,"903. The Beach",6.6,"2000",R
+A903,"904. Ender's Game",6.6,"2013",PG-13
+A904,"905. Clueless",6.9,"1995",PG-13
+A905,"906. Ghost Rider",5.3,"2007",PG-13
+A906,"907. Amores Perros",8.0,"2000",R
+A907,"908. The Talented Mr. Ripley",7.4,"1999",R
+A908,"909. The Babadook",6.8,"2014",Not Rated
+A909,"910. Natural Born Killers",7.2,"1994",R
+A910,"911. Rio",6.9,"2011",G
+A911,"912. The Boy in the Striped Pajamas",7.7,"2008",PG-13
+A912,"913. Pitch Black",7.0,"2000",R
+A913,"914. Lion",8.0,"2016",PG-13
+A914,"915. Mother!",6.6,"2017",R
+A915,"916. Lawless",7.2,"2012",R
+A916,"917. The Descent",7.2,"2005",R
+A917,"918. Me, Myself & Irene",6.6,"2000",R
+A918,"919. Madagascar: Escape 2 Africa",6.6,"2008",PG
+A919,"920. The Passion of the Christ",7.2,"2004",R
+A920,"921. Primal Fear",7.7,"1996",R
+A921,"922. Tarzan",7.3,"1999",G
+A922,"923. Sucker Punch",6.1,"2011",PG-13
+A923,"924. The Polar Express",6.6,"2004",G
+A924,"925. The Descendants",7.3,"2011",R
+A925,"926. The Boondock Saints",7.6,"1999",R
+A926,"927. The Karate Kid",7.3,"1984",PG
+A927,"928. Austin Powers: The Spy Who Shagged Me",6.7,"1999",PG-13
+A928,"929. Godzilla vs. Kong",6.3,"2021",PG-13
+A929,"930. Knowing",6.2,"2009",PG-13
+A930,"931. The Gray Man",6.5,"2022",PG-13
+A931,"932. The Hitman's Bodyguard",6.9,"2017",R
+A932,"933. Cube",7.1,"1997",R
+A933,"934. The Impossible",7.5,"2012",PG-13
+A934,"935. Bram Stoker's Dracula",7.4,"1992",R
+A935,"936. When Harry Met Sally...",7.7,"1989",R
+A936,"937. Dungeons & Dragons: Honor Among Thieves",7.2,"2023",PG-13
+A937,"938. The Fountain",7.2,"2006",PG-13
+A938,"939. Ghostbusters",6.8,"2016",PG-13
+A939,"940. The Artist",7.8,"2011",PG-13
+A940,"941. Silent Hill",6.5,"2006",R
+A941,"942. I, Tonya",7.5,"2017",R
+A942,"943. Predators",6.4,"2010",R
+A943,"944. Mr. Nobody",7.7,"2009",R
+A944,"945. Don Jon",6.5,"2013",R
+A945,"946. Mars Attacks!",6.4,"1996",PG-13
+A946,"947. Romeo + Juliet",6.7,"1996",PG-13
+A947,"948. Ocean's Eight",6.3,"2018",PG-13
+A948,"949. True Romance",7.9,"1993",R
+A949,"950. Rambo",7.0,"2008",R
+A950,"951. The Purge",5.7,"2013",R
+A951,"952. 21 Grams",7.6,"2003",R
+A952,"953. I Am Number Four",6.1,"2011",PG-13
+A953,"954. Old School",7.0,"2003",R
+A954,"955. The Girl Next Door",6.7,"2004",R
+A955,"956. Chicago",7.2,"2002",PG-13
+A956,"957. No Strings Attached",6.2,"2011",R
+A957,"958. Warm Bodies",6.8,"2013",PG-13
+A958,"959. Jason Bourne",6.6,"2016",PG-13
+A959,"960. Big",7.3,"1988",PG
+A960,"961. The Lone Ranger",6.4,"2013",PG-13
+A961,"962. The Adventures of Tintin",7.3,"2011",PG
+A962,"963. Elvis",7.3,"2022",PG-13
+A963,"964. Rush Hour 2",6.7,"2001",PG-13
+A964,"965. Misery",7.8,"1990",R
+A965,"966. The Chronicles of Riddick",6.6,"2004",R
+A966,"967. The Great Dictator",8.4,"1940",G
+A967,"968. Sunset Boulevard",8.4,"1950",Approved
+A968,"969. Rosemary's Baby",8.0,"1968",R
+A969,"970. Munich",7.5,"2005",R
+A970,"971. Ghost",7.1,"1990",PG-13
+A971,"972. Fast & Furious Presents: Hobbs & Shaw",6.5,"2019",PG-13
+A972,"973. Ant-Man and the Wasp: Quantumania",6.0,"2023",PG-13
+A973,"974. The Favourite",7.5,"2018",R
+A974,"975. Napoleon Dynamite",7.0,"2004",PG
+A975,"976. Master and Commander: The Far Side of the World",7.5,"2003",PG-13
+A976,"977. Role Models",6.8,"2008",R
+A977,"978. Body of Lies",7.0,"2008",R
+A978,"979. Prey",7.1,"2022",R
+A979,"980. Ted 2",6.3,"2015",R
+A980,"981. Sleepers",7.5,"1996",R
+A981,"982. The Adam Project",6.7,"2022",PG-13
+A982,"983. RoboCop",6.1,"2014",PG-13
+A983,"984. Safe House",6.7,"2012",R
+A984,"985. Gandhi",8.0,"1982",PG
+A985,"986. Project X",6.7,"2012",R
+A986,"987. Blade II",6.7,"2002",R
+A987,"988. Closer",7.2,"2004",R
+A988,"989. Captain Fantastic",7.8,"2016",R
+A989,"990. White House Down",6.3,"2013",PG-13
+A990,"991. Transcendence",6.2,"2014",PG-13
+A991,"992. Twister",6.5,"1996",PG-13
+A992,"993. Kiss Kiss Bang Bang",7.5,"2005",R
+A993,"994. A Fistful of Dollars",7.9,"1964",R
+A994,"995. Big Daddy",6.4,"1999",PG-13
+A995,"996. The Evil Dead",7.4,"1981",NC-17
+A996,"997. The Iron Giant",8.1,"1999",PG
+A997,"998. Chef",7.3,"2014",R
+A998,"999. Ace Ventura: When Nature Calls",6.4,"1995",PG-13
+A999,"1000. The Bridge on the River Kwai",8.1,"1957",PG
